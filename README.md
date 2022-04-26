@@ -1,1 +1,1 @@
-# Analysis-of-Simple-Projectile-Motion-Using-MATLAB
+# Analysis of Simple Projectile Motion Using MATLAB
